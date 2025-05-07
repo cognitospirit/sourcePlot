@@ -1,0 +1,1 @@
+This script can generate a text file which can be used to plot the sources on a 3D cortex. The MATLAB workspace contains the file necessary to run the script. In addition, a vector has to be created in the MATLAB workspace to indicate which corctial areas are activated or deactivated with values of +1 or -1.
